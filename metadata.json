@@ -1,0 +1,15 @@
+{
+  "name": "puppet-win_facts",
+  "version": "0.0.2",
+  "author": "liamjbennett",
+  "summary": "Module to install additional useful windows facter facts",
+  "license": "Apache-2.0",
+  "source": "https://github.com/instruct-br/puppet-win_facts",
+  "project_page": "https://github.com/instruct-br/puppet-win_facts",
+  "issues_url": "https://github.com/instruct-br/puppet-win_facts/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
